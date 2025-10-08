@@ -1,0 +1,8 @@
+transformers>=4.35.0
+datasets
+peft
+accelerate
+torch
+sentence-transformers
+gradio
+LoRa
