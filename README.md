@@ -63,7 +63,6 @@ It provides **safe, non-diagnostic health guidance**, with strong safeguards inc
 alphaCare/
 ├── colab_finetune_inference.ipynb   # Training + inference notebook (main file)
 ├── data_loader.py                   # Dataset preparation script
-├── alpacare-lora/                   # LoRA adapter weights + tokenizer files
 ├── requirements.txt                 # Required Python libraries
 ├── REPORT.pdf                       # Final technical report (8–9 pages)
 └── README.md                        # This file
