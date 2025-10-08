@@ -86,9 +86,9 @@ alphaCare/
 - Add **confidence scoring** and **red-flag symptom alerts**.
 - Explore **quantization** to fine-tune larger models (e.g., OPT-1.3B) within Colab resources.
 
----
 
-## ⚠️ Disclaimer
+
+##  Disclaimer
 This assistant is for **educational purposes only**.  
 It does **not** provide diagnosis, prescriptions, or dosages.  
 Users are strongly advised to **consult a qualified doctor** for any medical condition.
